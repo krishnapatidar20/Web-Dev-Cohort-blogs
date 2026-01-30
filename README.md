@@ -1,6 +1,7 @@
 # Web-Dev-Cohort-blogs
-This are the blogs given in a cohort
-This is my first time writing blog. hope you like it.
+This are the blogs given in a cohort,
+This is my first time writing blog. hope you like it, Time was less so i have written small blogs.
+
 
 ## Networking
 
@@ -22,6 +23,9 @@ This is my first time writing blog. hope you like it.
 
 
 [Emmet in HTML](https://krishna-patidar.hashnode.dev/emmet-a-guide-to-write-html-and-css-faste)
+
+
+[Browser](https://krishna-patidar.hashnode.dev/decoding-browser-how-they-load-and-render-websites)
 
 
 ## DNS
